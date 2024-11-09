@@ -16,7 +16,8 @@ Delete) system for managing products. The system also includes sorting, search c
     https://youtu.be/hP-9TSxoXZQ
 
 ---
-To test the application with real data, a database file called "product-management.sql" has been added to the project's root directory.
+
+A database file called "product-management.sql" has been added to the project's root directory to test the application with real data.
 
 ---
 ## Step-by-step instructions for Setting up the project
