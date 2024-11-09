@@ -37,8 +37,8 @@ Make sure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone git@github.com:hafiz-rahman/product-management.git
+   cd product-management
     ```
    
 2. **Install Composer Dependencies**
@@ -49,9 +49,11 @@ Make sure you have the following installed:
 3.	**Install NPM Dependencies**
     
     ```bash
-   npm install
-   npm run dev
-   ```
+    
+    npm install
+    npm run dev
+   
+   ``
 
 4.	**Environment Setup**
 
