@@ -12,11 +12,14 @@ Delete) system for managing products. The system also includes sorting, search c
 - **Notifications**: Success messages on product updates and actions using Alpine.js for smooth, temporary notifications.
 
 ---
-## Please go to the link bellow for video presentation -
+## Please go to the link below for video presentation -
     https://youtu.be/hP-9TSxoXZQ
 
 ---
-## Step-by-Step instruction for Setting up the project
+To test the application with real data, a database file called "product-management.sql" has been added to the project's root directory.
+
+---
+## Step-by-step instructions for Setting up the project
 
 Follow the steps below to **clone, set up,** and **run** the project on your local development environment.
 
